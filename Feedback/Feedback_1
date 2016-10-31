@@ -1,0 +1,21 @@
+Project Concept:
+	Nice Job !!!
+	
+Project Plan:
+	Milestone Schedule not updated with the deliverables and tasks(complete and incomplete).
+
+SRS:
+	Description for most of the use cases is missing.
+
+Design Doc:
+	The classes can further be broken down to multiple classes.
+	Does not capture the sequence diagrams for significant use cases like create database mentioned in the SRS.
+	
+Status Trackers: 
+	Report1-(week 1-6): Nice job !!!
+	Report2-(week 7 & 8): Nice job !!! 
+	Report3-(week 9 & 10): Nice job !!!
+	Report4-(week 11 & 12): Nice job !!!
+	
+Test Plan:
+	Tests not completely done for R1(no comments to explain). The status of R1 outcome for the tests is not mentioned.
